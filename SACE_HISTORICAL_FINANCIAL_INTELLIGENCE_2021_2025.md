@@ -9,7 +9,7 @@
 3. **Underwriting profit is affected by reserves and recoveries, not only current-year defaults.** The net claims charge is the net accounting movement after claims, recoveries and claims reserves. It is not equivalent to cash claims paid or the ultimate loss on the year's new business.
 4. **2023–24 profits require normalisation.** 2023 included €122.9m relating to the release/unwind of MEF-related technical-reserve costs for 2020–2023. SACE also distributed €780m to its shareholder in 2023 between ordinary dividend and available reserves. The 2024 result benefited from investment income and positive technical performance.
 5. **Investment income is a material earnings driver.** The financial management result was €351m in 2024 and €249.6m in 2025. SACE attributes the 2025 decline partly to the prior year's inverted yield curve and higher returns on liquidity, while the investment strategy is liability-driven.
-6. **Claims and recovery cash flows can be lumpy.** In 2024 large settlements in infrastructure/construction, gas and aeronautical sectors drove very high gross claims paid, while recovery settlements materially reduced net claims expense. 2025 gross claims paid fell substantially and recovery inflows included large items from Ireland, Iraq and Saudi Arabia.
+6. **SACE itself now explicitly links its cost of risk to forward-looking macro scenarios.** In 2025 the management view reports €195m net premiums, €106m cost of risk and €88.6m technical margin; the cost of risk rose due to a €136m increase in expected portfolio loss incorporating geopolitical risks, tighter trade restrictions and possible energy crises. This management view is distinct from the statutory standalone P&L figures above and should be modelled as a separate performance bridge.\n7. **Claims and recovery cash flows can be lumpy.** In 2024 large settlements in infrastructure/construction, gas and aeronautical sectors drove very high gross claims paid, while recovery settlements materially reduced net claims expense. 2025 gross claims paid fell substantially and recovery inflows included large items from Ireland, Iraq and Saudi Arabia.
 
 ## Historical series (EUR million)
 
@@ -41,6 +41,14 @@ Archimede guarantees can have a maximum duration of 25 years. For each commitmen
 
 ### 2025: mix shifts towards Archimede and domestic strategic relevance
 Gross premiums were €282.5m, of which €138m were new-production premiums. Archimede gross premiums totalled €266.9m, of which approximately €213.5m related to the MEF share; SACE's own P&L recorded €53.4m for Archimede. SACE's managed portfolio exposure on its balance-sheet perimeter was €51.3bn, with €39.4bn private, €11.6bn sovereign and €0.36bn political risk. Project-finance exposure fell 19.4% to €7.65bn while corporate-credit exposure rose 7.6% to €12.71bn. Investment management result was €249.6m vs €351.0m in 2024.
+
+## 2025 management-view underwriting bridge — separate from statutory accounts
+
+SACE's 2025 annual report also presents a management view of the characteristic business: net premiums of €195m, cost of risk of €106m and positive technical margin of €88.6m. The cost of risk includes the change in premium reserve and net claims charges after recoveries. SACE states that this cost increased following a €136m increase in expected portfolio loss, incorporating forward-looking macroeconomic scenarios related to geopolitical risks, tighter trade restrictions and possible energy crises.
+
+This is not the same perimeter / calculation as the statutory SACE S.p.A. standalone P&L line “premi netti di competenza” (€74.2m) or “risultato del conto tecnico” (€219.2m). STRATOS should show these as two separate reconciled views, not substitute one for the other.
+
+The report also identifies a major business mix effect: Archimede gross premiums were €266.9m including the MEF share, while the SACE P&L recorded €53.4m for Archimede. SACE's own standalone gross premiums were €282.5m. Do not infer total business volume by adding inconsistently reported premium subtotals.
 
 ## What this means for STRATOS financial modelling
 
