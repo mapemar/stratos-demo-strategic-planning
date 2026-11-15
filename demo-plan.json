@@ -1,0 +1,249 @@
+{
+  "title": "SACE Industrial Plan — Strategic Planning Case Study",
+  "period": "2026–2028",
+  "thesis": "Strengthen Italy’s export competitiveness and strategic investment capacity while preserving risk-adjusted financial sustainability and the credibility of SACE’s public mandate.",
+  "summary": "This independent STRATOS case study translates SACE’s publicly communicated SACE50 priorities into an integrated industrial-plan narrative. It is designed as a strategic planning prototype, not as an official SACE document or a substitute for management-approved forecasts. The plan connects export-market opportunities, the evolution of the Italian export credit system, SACE’s institutional role, business development, portfolio risk, financial performance and measurable economic additionality. Its central proposition is that SACE should manage growth in commitments as a portfolio-allocation question rather than a volume target alone: additionality, risk-adjusted return, capital consumption, concentration, expected claims and the allocation of MEF-backed versus retained risk should inform decisions together. The plan proposes a differentiated approach to exporters and strategic supply chains, with stronger early-warning and country-sector intelligence, more systematic SME origination, and closer integration of guarantees, credit insurance, factoring and advisory capabilities across the Group. It also recommends a disciplined financial-planning framework linking premium income, investment returns, claims, recoveries, reinsurance, operating costs, provisions and capital capacity. The macroeconomic outlook should be translated into a small set of transparent scenarios, with sensitivities for interest rates, insolvencies, exchange rates, trade restrictions, geopolitical shocks and logistics disruptions. Publicly announced SACE50 commitments are treated as official strategic context; historical figures are presented with entity and accounting-perimeter caveats; all additional targets and initiatives are recommendations for discussion. The plan concludes with a phased implementation roadmap, a balanced KPI scorecard and governance arrangements designed to connect strategy with execution and public impact.",
+  "financial": "The financial framework should reconcile statutory accounts, management reporting and portfolio-risk information before producing forecasts. Key drivers are earned premiums and fees; guarantee utilisation and duration; claims frequency and severity; recoveries and subrogations; reinsurance cost and recoverables; investment income and asset-liability sensitivity; technical provisions; operating expenses; tax and dividends; FX and concentration effects; and the split between MEF-backed and SACE-retained exposures. Historical SACE standalone data must not be mixed with Group consolidated results or total managed exposures including MEF risk. The 2021–2025 series in the STRATOS source pack is a starting point, not a complete actuarial dataset. Forecasts should therefore be scenario-based and explicitly labelled illustrative until reconciled to audited statements, risk appetite, Solvency II information and management assumptions.",
+  "scenarios": "Base case: gradual export growth, broadly stable claims experience and normalised financing conditions. Adverse case: weaker demand in key markets, higher corporate insolvencies, wider spreads, currency volatility and longer logistics routes; model higher expected claims, slower recoveries and greater capital usage. Severe geopolitical case: abrupt trade restrictions, sanctions escalation, shipping disruption or a sovereign/corporate shock affecting concentrated exposures; test accumulation, reinsurance availability, liquidity and the operational capacity to process claims. Upside case: stronger demand for Italian machinery, infrastructure, energy transition, defence/aerospace and supply-chain diversification, accompanied by improved SME access to finance. These are qualitative scenario narratives, not probability-weighted forecasts or actuarial loss estimates.",
+  "kpis": [
+    {
+      "name": "New commitments",
+      "definition": "New guarantee and insurance commitments, split by product, destination, sector and risk bearer.",
+      "target": "Official SACE50 ambition: approx. €150bn over 2026–2028; monitor annual phasing against the official plan.",
+      "frequency": "Quarterly"
+    },
+    {
+      "name": "Mobilised resources",
+      "definition": "Financing and investment enabled, with methodology and attribution clearly defined.",
+      "target": "Set product-specific additionality baselines; do not equate commitments with mobilised investment.",
+      "frequency": "Quarterly"
+    },
+    {
+      "name": "SME reach",
+      "definition": "Unique SMEs supported, repeat users, first-time exporters and share of total beneficiaries.",
+      "target": "Set baseline and multi-year ambition after validating customer data.",
+      "frequency": "Quarterly"
+    },
+    {
+      "name": "Risk-adjusted portfolio return",
+      "definition": "Technical result and income relative to expected loss, capital consumption and operating cost.",
+      "target": "Within Board-approved risk appetite.",
+      "frequency": "Quarterly"
+    },
+    {
+      "name": "Claims frequency and severity",
+      "definition": "Claims count and paid/incurred losses by vintage, product, country and sector.",
+      "target": "Within risk appetite and forecast tolerance.",
+      "frequency": "Monthly"
+    },
+    {
+      "name": "Recoveries",
+      "definition": "Cash recoveries and subrogation proceeds relative to claims paid and outstanding recoverables.",
+      "target": "Improve recovery performance against validated vintage baseline.",
+      "frequency": "Quarterly"
+    },
+    {
+      "name": "Portfolio concentration",
+      "definition": "Exposure by country, obligor, sector, product, maturity and risk bearer.",
+      "target": "Within approved limits and early-warning thresholds.",
+      "frequency": "Monthly"
+    },
+    {
+      "name": "Capital and solvency",
+      "definition": "Capital adequacy and available risk capacity on the appropriate entity/perimeter basis.",
+      "target": "Maintain management-approved buffer; do not infer a target from public information.",
+      "frequency": "Quarterly"
+    },
+    {
+      "name": "Operating efficiency",
+      "definition": "Cost-to-income and processing time by product, with service-quality controls.",
+      "target": "Continuous improvement against 2026 baseline.",
+      "frequency": "Quarterly"
+    },
+    {
+      "name": "Economic additionality",
+      "definition": "Evidence of transactions enabled, financing gaps addressed, exports/investments supported.",
+      "target": "Publish an independently reviewable methodology and annual outcomes.",
+      "frequency": "Annual"
+    }
+  ],
+  "limitations": "This is a demonstration case study assembled from public strategic context and a curated historical baseline. It is not an official SACE plan, does not represent SACE management views, and contains no confidential information. Financial scenarios are qualitative and illustrative, not an actuarial model, solvency assessment or approved budget. All historical data, perimeter definitions, SACE50 figures and peer-plan references should be checked against the original documents before external use. The peer examples inform structure and planning discipline, not direct quantitative comparisons.",
+  "chapters": [
+    {
+      "title": "Company Overview and Institutional Mandate",
+      "full": "SACE is Italy’s export credit agency and a public-policy financial institution supporting exports, internationalisation and strategic investment. Its role combines commercial execution with a public mandate: enabling transactions that may be difficult to finance or insure on purely private terms, while preserving financial discipline and managing risk. The industrial plan should explain the distinct responsibilities of SACE S.p.A., SACE BT, SACE Fct and SACE SRV, and clarify how products and customer journeys connect across the Group. It should also distinguish SACE’s own balance-sheet exposures from risks supported by the Ministry of Economy and Finance. This distinction is essential to understand reported volumes, capital consumption, profitability and the allocation of public risk. The plan should describe governance, shareholder expectations, statutory responsibilities and the operating relationship with MEF and CDP using the legal and institutional position applicable to each period. The objective is not to present SACE as a conventional bank or insurer, but as an ECA whose performance must be assessed through financial sustainability, additionality and national economic impact together.",
+      "slide_summary": "A public-policy ECA with an integrated group model: export support, strategic investment and disciplined risk management.",
+      "bullets": [
+        "Clarify the mandate and shareholder framework.",
+        "Map SACE S.p.A., BT, Fct and SRV capabilities.",
+        "Separate MEF-backed risk from SACE-retained risk.",
+        "Use a consistent perimeter for all performance indicators."
+      ]
+    },
+    {
+      "title": "Historical Evolution: From Emergency Support to Strategic Platform",
+      "full": "The last five years should be understood as a transition between distinct policy cycles. During the pandemic, Garanzia Italia and related emergency interventions placed SACE at the centre of extraordinary liquidity support to companies. These schemes responded to an exceptional shock and operated with a different risk-sharing and policy rationale from ordinary export credit business. As emergency measures receded, SACE’s role increasingly focused on supporting exports, internationalisation and strategic domestic investment, including through the Archimede framework. This evolution should not be described as a simple replacement of one guarantee product by another: eligibility, risk bearer, pricing, additionality, maturity and policy objectives differ. The institutional relationship with CDP and MEF should be narrated with precise dates and legal perimeters, avoiding shorthand claims about separation unless supported by formal corporate documents. The plan should use this history to identify capabilities built during crisis management—origination, guarantee execution, portfolio monitoring and coordination with public authorities—and determine which should become permanent operating strengths.",
+      "slide_summary": "SACE’s evolution: emergency liquidity support during COVID, followed by a broader export and strategic-investment mandate.",
+      "bullets": [
+        "Explain Garanzia Italia as an exceptional crisis response.",
+        "Distinguish emergency guarantees from ordinary ECA activity.",
+        "Position Archimede within strategic domestic investment support.",
+        "Document institutional changes using dated legal sources."
+      ]
+    },
+    {
+      "title": "Macroeconomic and Geopolitical Context",
+      "full": "SACE’s operating environment is shaped by global trade growth, financing conditions, corporate solvency, sovereign risk and geopolitical fragmentation. Higher interest rates can raise debt-service burdens, reduce investment demand and weaken borrower credit quality; lower rates may support investment but also change reinvestment income and asset-liability returns. Inflation and energy prices affect Italian exporters’ competitiveness and counterparties’ ability to perform. Exchange-rate movements alter the value and repayment capacity of foreign-currency transactions. Trade restrictions, tariffs, sanctions, export controls and industrial subsidies can redirect demand or make transactions uninsurable. Conflict and maritime disruption can increase freight costs, delivery times and working-capital needs. The plan should maintain a structured geopolitical watchlist and translate developments into country-sector exposure reviews, underwriting guidance and scenario assumptions. It should avoid treating entire countries or markets as simply “closed”: restrictions are product-, counterparty-, sector- and transaction-specific and must be checked against current law and underwriting policy.",
+      "slide_summary": "Rates, insolvencies, FX, energy, trade policy and geopolitical shocks influence both export demand and guarantee losses.",
+      "bullets": [
+        "Track rates, spreads, inflation and corporate insolvencies.",
+        "Monitor sanctions, tariffs and export-control changes.",
+        "Assess shipping, energy and critical-input disruptions.",
+        "Translate geopolitical signals into portfolio actions."
+      ]
+    },
+    {
+      "title": "Italian Export Market and Sector Opportunities",
+      "full": "The market analysis should combine a long-run view of Italian export specialisation with the latest available trade data. Italy’s export base is diversified across machinery and mechanical engineering, pharmaceuticals, transport equipment, food and beverages, chemicals, fashion and luxury, metal products and intermediate goods. Opportunities arise not only from faster-growing destination markets but also from supply-chain relocation, infrastructure investment, energy transition, digitalisation and demand for high-quality capital goods. The plan should distinguish nominal export growth from volume growth and price effects, and separate direct exports from exports embedded in global value chains. Destination analysis should consider market size, growth, payment risk, convertibility, political risk, sanctions exposure, local-content rules and logistics. SACE should prioritise segments where Italian firms have competitive strengths and where insurance or guarantees can demonstrably unlock financing. The analysis must be refreshed with official ISTAT, Eurostat, UN Comtrade and SACE data before setting numerical market targets.",
+      "slide_summary": "Prioritise markets and sectors where Italian competitive strengths meet financeable demand and measurable additionality.",
+      "bullets": [
+        "Segment by sector, destination and exporter size.",
+        "Separate value growth from volume and price effects.",
+        "Assess market access, payment risk and logistics.",
+        "Link origination priorities to financing gaps."
+      ]
+    },
+    {
+      "title": "Historical Financial Performance and Portfolio",
+      "full": "Financial performance should be presented as a reconciled five-year series, with a clear bridge between statutory accounts, management reporting and consolidated Group information. Premiums, earned income, technical result, net profit, technical provisions and equity provide important but different signals. A strong net result in a particular year may reflect claims experience, investment returns, releases or other non-recurring effects; it should not automatically be interpreted as a structural run rate. Similarly, Group volumes mobilised, SACE standalone commitments, balance-sheet exposure and total portfolios managed including MEF risk are not interchangeable. The plan should explain changes in product mix, geography, maturity, sovereign and private-sector exposures, project finance and corporate credit. It should also analyse vintage effects: when guarantees were issued, when risks mature, when claims are reported and when recoveries are realised. A robust historical review is the foundation for a credible forecast and for understanding how much capacity can be redeployed.",
+      "slide_summary": "A perimeter-consistent five-year financial and portfolio review is the basis for credible strategic targets.",
+      "bullets": [
+        "Reconcile standalone and consolidated accounts.",
+        "Separate commitments, exposure and mobilised resources.",
+        "Explain earnings volatility and one-off effects.",
+        "Analyse vintage, maturity and concentration patterns."
+      ]
+    },
+    {
+      "title": "Strategic Vision and Objectives",
+      "full": "The proposed vision is to make SACE a more targeted, intelligence-led platform for Italian export competitiveness and strategic investment. Growth should be pursued where SACE can demonstrate additionality and where risk-adjusted economics remain consistent with the public mandate. Strategic objectives should cover four dimensions: expanding access to international markets for Italian firms; mobilising finance for strategic domestic and international projects; strengthening resilience through portfolio diversification and early-warning capabilities; and improving operating productivity and customer experience. The official SACE50 plan provides the public strategic anchor, including the announced ambition of approximately €150bn in new commitments over 2026–2028. STRATOS should not invent new official targets. Instead, it should translate published ambitions into proposed management indicators, milestones and decision rules, clearly labelled as recommendations. The vision should be cascaded into annual plans, business-line priorities, country-sector appetites and investment in data, people and partnerships.",
+      "slide_summary": "Grow where SACE adds value, while protecting risk-adjusted sustainability and public-policy impact.",
+      "bullets": [
+        "Use SACE50 as the official strategic anchor.",
+        "Define measurable objectives across growth, risk and impact.",
+        "Cascade objectives into business-line plans.",
+        "Label proposed targets separately from approved targets."
+      ]
+    },
+    {
+      "title": "Strategic Pillars and Operating Model",
+      "full": "The plan proposes five mutually reinforcing pillars. First, customer-led export growth: segment exporters by size, maturity, sector and internationalisation needs. Second, strategic investment: support eligible infrastructure, energy, innovation and supply-chain projects where financing gaps are evidenced. Third, risk excellence: strengthen country, sector, counterparty and concentration analytics, with clear escalation thresholds. Fourth, integrated Group capabilities: connect guarantees, credit insurance, factoring, advisory and recovery services into coherent customer propositions. Fifth, digital and organisational transformation: improve data quality, workflow automation, underwriting support and management information. These pillars should be supported by clear accountability across business units, risk, finance, operations, legal, compliance and technology. The operating model should specify which decisions are centralised, which are delegated within limits, and how public-policy objectives are balanced with independent risk controls. Partnerships with banks, insurers, investors and export-promotion bodies should be governed by transparent referral and risk-sharing arrangements.",
+      "slide_summary": "Five pillars: export growth, strategic investment, risk excellence, integrated Group services and digital transformation.",
+      "bullets": [
+        "Build a customer-segment operating model.",
+        "Integrate Group products around exporter needs.",
+        "Strengthen independent risk governance.",
+        "Invest in data, automation and decision support."
+      ]
+    },
+    {
+      "title": "Business Development and Customer Strategy",
+      "full": "Business development should move from broad awareness activity towards measurable origination in priority segments. For SMEs, the emphasis should be on reducing complexity, improving access to information and working through banks, trade associations, regional networks and professional intermediaries. For larger exporters and strategic supply chains, relationship coverage should combine country intelligence, buyer and project identification, financing structures and risk mitigation. Push Strategy and business matching can help connect Italian suppliers with foreign buyers and large international projects, but should be evaluated by conversion into financed or insured transactions, not meeting counts alone. Advisory should help firms assess country risk, payment terms, contract structures and market-entry barriers. A single customer view across SACE Group companies can reduce duplication and identify cross-selling opportunities, subject to data-protection and conduct requirements. Business plans should set segment-specific acquisition, retention, conversion and service-quality indicators.",
+      "slide_summary": "Build a measurable origination engine, especially for SMEs and Italian suppliers in international value chains.",
+      "bullets": [
+        "Differentiate SME and large-corporate coverage.",
+        "Measure conversion from leads to supported transactions.",
+        "Link Push Strategy to verified commercial outcomes.",
+        "Create a coherent cross-Group customer journey."
+      ]
+    },
+    {
+      "title": "Investment Plan and Enabling Capabilities",
+      "full": "The investment plan should prioritise capabilities that improve risk selection, customer reach and operating efficiency. Key areas include a common data architecture, reliable exposure and claims data, country and sector intelligence, workflow automation, digital customer interfaces and management dashboards. Investment in AI should focus initially on controlled use cases such as document classification, information extraction, portfolio monitoring and decision support, with human review and traceability. Technology projects should have clear business owners, implementation milestones, cybersecurity controls and measurable benefits. People investment is equally important: underwriting, geopolitical analysis, actuarial and data skills, project finance, recovery expertise and change management. The plan should distinguish capital expenditure from operating expenditure and identify dependencies on procurement, legacy systems, data governance and regulatory requirements. Each initiative should have a business case that includes implementation cost, expected efficiency or risk benefit, adoption measures and post-implementation review.",
+      "slide_summary": "Invest in data, digital workflows, AI-assisted analysis and specialist skills with measurable returns.",
+      "bullets": [
+        "Prioritise common data and portfolio visibility.",
+        "Deploy AI as controlled decision support.",
+        "Strengthen specialist risk and sector capabilities.",
+        "Track cost, adoption and realised benefits."
+      ]
+    },
+    {
+      "title": "Financial Plan and Profitability Drivers",
+      "full": "A credible financial plan should be built from business drivers rather than applying growth rates to historical profit. Revenue should be decomposed into premiums, fees, commissions and investment income, by product and risk bearer. Costs should distinguish acquisition, underwriting, claims handling, recovery, technology and central functions. The risk cost should include expected claims, incurred-but-not-reported estimates, severity, recoveries, reinsurance and timing differences. The investment portfolio requires assumptions for yield, duration, credit quality, liquidity and reinvestment. The forecast should reconcile profit and loss, balance sheet, cash flows, technical provisions and capital indicators. It should separately identify the economics of MEF-backed schemes and SACE-retained risk. Management should monitor both absolute profit and risk-adjusted return, because higher volumes may consume capacity without creating commensurate value. Any numerical forecast must be validated against audited accounts, internal actuarial information and approved assumptions.",
+      "slide_summary": "Link business volumes to premiums, claims, investment returns, costs, provisions, capital and cash flows.",
+      "bullets": [
+        "Build driver-based P&L and balance-sheet forecasts.",
+        "Model claims, recoveries and reinsurance explicitly.",
+        "Separate MEF-backed and retained-risk economics.",
+        "Measure risk-adjusted profitability, not volume alone."
+      ]
+    },
+    {
+      "title": "Risk Management and Portfolio Resilience",
+      "full": "Risk management is central to the ECA business model. A guarantee creates contingent exposure whose financial impact depends on probability of default, loss given default, exposure at default, maturity, recoveries and risk-sharing arrangements. Claims can be delayed relative to the original transaction and recoveries may take years, so cash-flow timing matters as much as ultimate loss. The plan should strengthen portfolio monitoring by country, sector, obligor, product, maturity, currency and risk bearer. Early-warning indicators should include rating migration, payment delays, insolvency trends, sovereign spreads, exchange-rate stress, sanctions changes and project delays. Reinsurance and co-insurance should be evaluated for cost, counterparty quality, coverage and basis risk. Stress tests should examine correlated shocks and accumulation, not only isolated defaults. Risk appetite, underwriting authority, provisioning and escalation rules should be approved by the relevant governance bodies and reviewed regularly.",
+      "slide_summary": "Protect capacity through granular underwriting, early warning, recovery discipline and portfolio stress testing.",
+      "bullets": [
+        "Model PD, LGD, EAD and recovery timing.",
+        "Monitor concentrations and correlated shocks.",
+        "Assess reinsurance cost and counterparty risk.",
+        "Connect early-warning signals to underwriting action."
+      ]
+    },
+    {
+      "title": "Macroeconomic and Financial Scenarios",
+      "full": "The scenario framework should connect external shocks to SACE’s financial drivers through explicit transmission channels. In the base case, export demand and financing conditions evolve broadly in line with the central macroeconomic outlook. In the adverse case, weaker activity and higher interest costs increase corporate insolvencies, reduce new business and raise claims. A severe geopolitical case combines trade restrictions, shipping disruption, commodity-price volatility, sanctions escalation and concentrated counterparty stress. An upside case captures stronger demand from supply-chain diversification, infrastructure investment and energy transition. Each scenario should specify shocks to exports by destination and sector, default frequency and severity, recovery rates and delays, investment yields, FX, reinsurance costs and operating expenses. The output should show ranges and sensitivities rather than false precision. Until internal claims and actuarial data are available, the model must remain illustrative and should not be presented as a Solvency II projection.",
+      "slide_summary": "Translate macro and geopolitical shocks into export, default, claims, recovery, investment and capital sensitivities.",
+      "bullets": [
+        "Define base, adverse, severe and upside scenarios.",
+        "Specify transmission channels and sensitivities.",
+        "Show ranges and uncertainty, not false precision.",
+        "Keep illustrative analysis separate from actuarial forecasts."
+      ]
+    },
+    {
+      "title": "ESG, Sustainability and Economic Additionality",
+      "full": "SACE’s impact framework should distinguish activity from outcomes. Commitments, guarantees issued and companies reached are outputs; investment enabled, exports supported and financing gaps addressed are outcomes; productivity, employment, resilience and decarbonisation are broader impacts. The methodology should define attribution, counterfactuals, time horizons and data sources to avoid overstating the effect of public support. Environmental and social risk screening should be integrated into underwriting and project monitoring, with clear treatment of transition risk, physical climate risk and applicable standards. The plan should also assess whether support reaches SMEs, new exporters, underserved markets and strategically important supply chains. Additionality should be evidenced at transaction level: what would not have happened, or would have happened on materially different terms, without SACE involvement? Transparent reporting can strengthen accountability to the shareholder and public while helping management allocate scarce risk capacity.",
+      "slide_summary": "Measure not only volumes supported but what SACE enables that the market would not otherwise deliver.",
+      "bullets": [
+        "Separate outputs, outcomes and long-term impacts.",
+        "Define transaction-level additionality methodology.",
+        "Integrate ESG and climate risk into underwriting.",
+        "Report SME reach and economic outcomes transparently."
+      ]
+    },
+    {
+      "title": "Implementation Roadmap",
+      "full": "Implementation should proceed in three phases. In the first six months, establish a common strategic baseline: reconcile financial perimeters, validate portfolio data, map product economics, confirm the official SACE50 target cascade and define the KPI dictionary. In months six to eighteen, implement priority initiatives: SME origination pilots, country-sector dashboards, early-warning enhancements, cross-Group customer journeys and selected digital workflows. In months eighteen to thirty-six, scale proven initiatives, embed scenario-based planning in the annual budget and publish a consistent impact framework. Each workstream should have an executive sponsor, accountable owner, delivery milestones, dependencies, resource requirements and benefits-realisation measures. A quarterly steering process should review progress, risks and corrective actions. The roadmap should remain adaptable to changes in the macroeconomic outlook, public mandate and risk appetite.",
+      "slide_summary": "Sequence the transformation: baseline and data first, priority pilots second, scaled execution third.",
+      "bullets": [
+        "0–6 months: baseline, data and KPI definitions.",
+        "6–18 months: pilot priority business and risk initiatives.",
+        "18–36 months: scale and embed in planning cycles.",
+        "Assign sponsors, owners and benefits measures."
+      ]
+    },
+    {
+      "title": "KPI Framework and Performance Management",
+      "full": "The KPI framework should connect strategic intent to management decisions. A balanced scorecard should cover business development, customer reach, portfolio quality, financial performance, capital capacity, operating efficiency and economic impact. Each KPI requires a precise definition, owner, source system, calculation frequency, segmentation and escalation threshold. Commitments should be paired with measures of utilisation, additionality and risk-adjusted return. Claims should be monitored by frequency, severity, vintage and recovery. Financial indicators should reconcile with audited accounts and management reporting. Impact indicators should distinguish unique companies from repeat transactions and avoid double counting across Group entities or co-financiers. Targets should be assigned only after baselines and data quality are validated. The Board should receive a concise quarterly dashboard, while operational teams use more granular monthly indicators and exception reporting.",
+      "slide_summary": "A governed KPI dictionary links strategy, execution, risk, financial sustainability and impact.",
+      "bullets": [
+        "Define owners, formulas, systems and thresholds.",
+        "Pair growth metrics with risk and additionality.",
+        "Avoid double counting across entities and partners.",
+        "Use monthly operational and quarterly Board reporting."
+      ]
+    },
+    {
+      "title": "Governance, Controls and Strategic Monitoring",
+      "full": "The governance model should ensure that strategic ambition is translated into controlled execution. The Board approves strategy, risk appetite and major capital or investment decisions; executive management allocates resources and resolves cross-functional priorities; business units deliver initiatives; and independent risk, compliance, finance, actuarial and internal audit functions provide challenge and assurance. A strategy office should maintain the integrated plan, monitor milestones, coordinate scenario updates and report deviations. Material changes in country risk, claims experience, capital capacity or public-policy requirements should trigger defined escalation and re-planning processes. Management information must use consistent data definitions and preserve an audit trail from source data to reported KPI. The plan should be reviewed annually, with quarterly monitoring and a formal mid-term assessment. Public communication should distinguish approved SACE strategy from STRATOS proposals and should never imply endorsement by SACE.",
+      "slide_summary": "Clear accountability, independent challenge and disciplined review keep the plan executable and credible.",
+      "bullets": [
+        "Define Board, executive and control-function responsibilities.",
+        "Create a strategy office and quarterly review cycle.",
+        "Escalate material risk and delivery deviations.",
+        "Maintain traceability and transparent external communication."
+      ]
+    }
+  ]
+}
