@@ -21,3 +21,10 @@ The application is a front-end demonstration. It does not include secure authent
 - PDF export uses the browser print dialogue (choose Save as PDF); PowerPoint export downloads an editable .pptx.
 - Generated AI content remains in the active browser session and is not automatically published to GitHub Pages. Save the PDF/PPTX locally to share it; generation must be repeated after a page refresh.
 - Uploaded documents are not yet OCR-parsed or indexed into a RAG knowledge base. The generator uses curated public-source context and text extracted from existing STRATOS analytical modules. Human verification remains necessary.
+
+
+## No-cost AI plan demonstration
+- The `AI Business Plan Generator` runs in no-cost demo mode. It loads `demo-plan.json` from this repository and exports the SACE industrial-plan case study to PDF (browser print / Save as PDF) or editable PowerPoint.
+- No OpenAI API key is requested or stored. No API requests are made and no token charges are incurred by clicking the export buttons.
+- The plan content was prepared as a static demonstration using the ChatGPT conversation workflow and committed to GitHub. The page does not regenerate content dynamically with a live model. Live AI generation remains disabled pending an explicit decision on a provider, budget and secure backend.
+- The generated case study is illustrative, is not an official SACE plan and is not a substitute for validation against audited accounts, original public documents and approved SACE targets.
