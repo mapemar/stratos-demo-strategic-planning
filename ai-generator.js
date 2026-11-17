@@ -11,7 +11,7 @@ const esc=x=>String(x??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&g
 window.loadDemoPlan=async()=>{if(window.stratosAIPlan)return window.stratosAIPlan;const r=await fetch('./demo-plan.json',{cache:'no-store'});if(!r.ok)throw Error('Cannot load demo-plan.json ('+r.status+')');window.stratosAIPlan=await r.json();return window.stratosAIPlan};
 window.generatePlanAI=async kind=>{
  const btn=document.getElementById('ai-'+kind);if(btn){btn.disabled=true;btn.textContent='Preparing demo output…'}
- try{const p=await window.loadDemoPlan();if(kind==='pdf'){render();setTimeout(()=>window.print(),450)}else await window.exportPlanPPT(); }
+ try{const p=await window.loadDemoPlan();if(kind==='pdf'){if(typeof window.go==='function')window.go('reports');else if(typeof render==='function')render();setTimeout(()=>window.print(),650)}else await window.exportPlanPPT(); }
  catch(e){alert('Cannot prepare the demo output: '+e.message)}
  finally{if(btn){btn.disabled=false;btn.textContent=kind==='pdf'?'Export Business Plan · PDF':'Export Executive Plan · PowerPoint'}}
 };
